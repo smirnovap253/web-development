@@ -1,0 +1,75 @@
+.logo-text
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30.8354px;
+    line-height: 122.33%;
+    /* identical to box height, or 38px */
+
+    letter-spacing: -0.045em;
+
+    color: #000000; 
+}
+
+.text-marker
+{
+    
+    color: #EE58B6;
+}
+
+.main-title
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 100px;
+    line-height: 122.35%;
+    /* or 122px */
+
+
+    color: #000000;
+}
+
+.small-text
+{
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 120%;
+    /* or 31px */
+
+
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.black-button
+{
+    position: absolute;
+    width: 332px;
+    height: 55px;
+    left: 0px;
+    top: 251px;
+
+    background: #05090C;
+    border-radius: 4.59px;
+}
+
+.white-text
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    /* identical to box height, or 103% */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+
+
+
